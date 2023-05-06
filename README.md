@@ -12,9 +12,6 @@ This bypass will also jailbreak with palera1n, we do this to disable rootfs seal
 
 iOS 16 support should be working now.
 
-# Known issue
-
-SSH may not work in the bypass phase. This is currently being looked into.
 
 # DISCLAIMER
 
